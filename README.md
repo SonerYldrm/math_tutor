@@ -1,9 +1,9 @@
-# 📦 Streamlit App Starter Kit 
+# Math Tutor
 ```
 ⬆️ (Replace above with your app's name)
 ```
 
-Description of the app ...
+The math tutor helps students solve arithmetic and logical reasoning problems by providing clues.
 
 ## Demo App
 
